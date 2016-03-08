@@ -1,6 +1,6 @@
 {
   "name": "firebase-elasticsearch-search-worker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Labrary for process firebase searches",
   "main": "src/index.js",
   "scripts": {
