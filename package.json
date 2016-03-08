@@ -1,0 +1,28 @@
+{
+  "name": "firebase-elasticsearch-search-worker",
+  "version": "1.0.0",
+  "description": "Labrary for process firebase searches",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kulakowka/firebase-elasticsearch-search-worker.git"
+  },
+  "keywords": [
+    "firebase",
+    "search",
+    "worker",
+    "elasticsearch"
+  ],
+  "author": "Anton Kulakov (http://kulakowka.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kulakowka/firebase-elasticsearch-search-worker/issues"
+  },
+  "homepage": "https://github.com/kulakowka/firebase-elasticsearch-search-worker#readme",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
